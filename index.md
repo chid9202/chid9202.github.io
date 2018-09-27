@@ -1,3 +1,3 @@
-# Welcome to Daehan's page
+# Jidaero Lab
 
-I'm glad you are here. I plan to talk about ...
+Welcome to my Research Lab! I am a software engineering interested in Media and Text Mining! Enjoy!

@@ -1,12 +1,11 @@
-title: Daehan's jekyll title
-author: Daehan
+title: Jidaero Research
+author: Jidaero
 email: chid9202@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a description for testing jekyll
-  github page by daehan chi
+  Enjoy my experience.
 
 # social links
-twitter_username: chid9202
+# twitter_username: chid9202
 github_username:  chid9202
 
 show_excerpts: true # set to false to remove excerpts on the homepage
